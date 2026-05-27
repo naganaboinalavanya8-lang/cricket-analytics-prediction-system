@@ -1,19 +1,29 @@
-This directory includes a few sample datasets to get you started.
+# IPL Cricket Analytics & Match Prediction System
 
-*   `california_housing_data*.csv` is California housing data from the 1990 US
-    Census; more information is available at:
-    https://docs.google.com/document/d/e/2PACX-1vRhYtsvc5eOR2FWNCwaBiKL6suIOrxJig8LcSBbmCbyYsayia_DvPOOBlXZ4CAlQ5nlDD8kTaIDRwrN/pub
+## Overview
+A Machine Learning and Sports Analytics project developed using IPL cricket datasets to analyze player and team performance, death-over efficiency, batting strike rates, bowling economy, and predictive match analytics.
 
-*   `mnist_*.csv` is a small sample of the
-    [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), which is
-    described at: http://yann.lecun.com/exdb/mnist/
+## Features
+- Match prediction system
+- Death over analysis
+- Finisher performance analytics
+- Team performance insights
+- Predictive modeling using Random Forest
+- Data visualization and statistical analysis
 
-*   `anscombe.json` contains a copy of
-    [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet); it
-    was originally described in
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Data Analytics
+- Jupyter Notebook
 
-    Anscombe, F. J. (1973). 'Graphs in Statistical Analysis'. American
-    Statistician. 27 (1): 17-21. JSTOR 2682899.
+## Project Highlights
+- Built predictive models for runs and wickets forecasting
+- Performed feature engineering and clustering analysis
+- Generated player and team performance insights using IPL datasets
 
-    and our copy was prepared by the
-    [vega_datasets library](https://github.com/altair-viz/vega_datasets/blob/4f67bdaad10f45e3549984e17e1b3088c731503d/vega_datasets/_data/anscombe.json).
+## Author
+Lavanya Naganaboina
